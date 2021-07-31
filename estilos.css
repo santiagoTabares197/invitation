@@ -1,0 +1,42 @@
+body{
+    background-color: #EBF7EA ;
+}
+.titulo{
+    position: relative;
+    top: 20px;
+    font-family: 'Lobster', cursive;
+
+}
+.monitor{
+    position: relative;
+    bottom: 80px;    
+}
+.TextoFlotante{
+    position: relative;
+    top: 30px;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+.invitacion{
+    position: relative;
+    bottom: 520px;
+    font-size: 20px;
+    text-decoration: solid;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.place{
+    position: relative;
+    bottom: 540px;
+    font-size: 11px;
+    font-family: 'MonteCarlo', cursive;
+}
+.contenedorTotal{
+   
+    border-radius: 20px;
+    height: 600px;
+    width: 600px;
+}
+button{
+    cursor: pointer;
+}
